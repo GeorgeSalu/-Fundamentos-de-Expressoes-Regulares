@@ -1,0 +1,15 @@
+// Desafio.js
+CPF dos aprovados
+    - 600.567.980-12
+    - 600.567.981-12
+
+//DesafioTelefone.js
+Lista Telefonica
+    - (11) 98765-1212
+    - (11) 98765-1222
+
+//DesafioEmail
+Os email dos convidados sao:
+    - fulano@gmail.com
+    - xw@gmail.com
+    
